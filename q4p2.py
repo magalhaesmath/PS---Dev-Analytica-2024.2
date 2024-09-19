@@ -1,3 +1,6 @@
+# Questão 4 da Tarefa de Programação 2, PS - Dev Analytica 2024.2
+# Autor: Matheus Magalhães
+
 def main():
   numeros = {}
   while True:
