@@ -1,4 +1,4 @@
-# Questão 1 da Tarefa de Programação 2, PS - Dev UFRJ Analytica 2024.2
+# Questão 2 da Tarefa de Programação 2, PS - Dev UFRJ Analytica 2024.2
 # Autor: Matheus Magalhães
 
 def main():
